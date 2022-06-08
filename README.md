@@ -1,4 +1,4 @@
-## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 [![Twitter Badge](https://img.shields.io/badge/-@AbhishekSaxena-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abhisheksaxena)](https://twitter.com/abhisheksaxena) 
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhisheksaxena7/)](https://www.linkedin.com/in/abhisheksaxena7/)
