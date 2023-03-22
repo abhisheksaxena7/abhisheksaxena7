@@ -7,7 +7,9 @@ I'm Abhishek, I like solving complex technical problems by building products and
 
 Current muse is automating Salesforce Release Management as a Salesforce DevOps Specialist. I like finding ways to improve the software delivery pipeline to ensure higher quality features are shipped faster. 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhisheksaxena7&show_icons=true&count_private=true" align="center" /></div>  
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksaxena7&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Abhi's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <br/>
 
