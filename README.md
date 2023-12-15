@@ -13,10 +13,11 @@ Current muse is automating Salesforce Release Management as a Salesforce DevOps 
 
 <br/>
 
+<!--
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=abhisheksaxena7.abhisheksaxena7" alt="visitor badge"/>
 </div>
-<!--
+
 **abhisheksaxena7/abhisheksaxena7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
